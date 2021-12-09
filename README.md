@@ -1,1 +1,1 @@
-# repository
+Learner at Code School Uz.
